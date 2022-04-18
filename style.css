@@ -1,0 +1,31 @@
+body{
+    font-family: 'Cookie', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Lalezar', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Teko', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#name-heighlight{
+    font-size: 60px;
+    color: goldenrod;
+}
+
+p{
+    font-size: 20px;
+}
+
+.first-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.first-div img{
+    width: 80%;
+}
+
